@@ -36,6 +36,5 @@
 <code><img height="20" src="https://api.iconify.design/logos-graphql.svg"></code>
 
 <p>
-  <img src="https://raw.githubusercontent.com/rrleticia/github-stats-transparent/refs/heads/output/generated/overview.svg">
-  <img src="https://raw.githubusercontent.com/rrleticia/github-stats-transparent/refs/heads/output/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/rrleticia/github-stats/refs/heads/master/generated/overview.svg"> <img src="https://raw.githubusercontent.com/rrleticia/github-stats/refs/heads/master/generated/languages.svg">
  </p>
